@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Frank Basti - In Loving Memory</title>
-<meta name="description" content=" Born 1979, Died 2012. He loved cats, but hated overweight women.">
+<meta name="description" content=" Born 1979, Died 2013. He liked cats, mango juice, flowers and PS3.  He never trusted Mexicans.">
 <link rel="shortcut icon" href="/x/f/g/ico/nx.ico" type="image/x-icon" />
 <link rel="image_src" type="image/jpeg" href="http://frankbasti.com/fb.png" />
 <meta property="og:image" content="http://frankbasti.com/fb.png" />
@@ -24,7 +24,7 @@ body{background:#1a4f7c; margin:0px; padding:0px} #main {display: block; width: 
 <div id="memory">
 	<p>In loving Memory of Frank Basti</p>
 	<p> Born 1979, Died 2013</p>
-	<p>He liked cats but hated overweight women</p>
+	<p>He liked cats, mango juice, flowers and PS3.  He never trusted Mexicans.</p>
 	<div class="fb-like" data-href="http://frankbasti.com" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
 <div>
 <audio autoplay="autoplay" controls="controls" hidden="true">  
