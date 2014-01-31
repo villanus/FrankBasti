@@ -45,5 +45,6 @@ $('#main').hide().delay(0).fadeIn(2500);
   ga('create', 'UA-36725334-2', 'frankbasti.com');
   ga('send', 'pageview');
 </script>
+<!-- FOCK KU -->
 </body>
 </html>
