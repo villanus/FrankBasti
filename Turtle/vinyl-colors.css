@@ -1,0 +1,81 @@
+/* VINYL-COLOR.css */
+
+/* 
+TODOS
+ - add frosted colors
+ - add metalic colors via fill patners http://pastebin.com/4LRVZz1f
+*/
+
+
+/* Starting Vinyl Colors For Before Image Loads */
+.or-x1 {fill:rgba(255,255,255,.01);}
+.or-x2 {fill:rgba(255,255,255,.02);}
+.or-x3 {fill:rgba(255,255,255,.03);}
+.or-x4 {fill:rgba(255,255,255,.04);}
+
+/* OROCAL 631 COLORS
+  http://www.orafol.com/gp/americas/en/products/plotter-films/wall-graphics-9763-product-details/items/oracal-631-exhibition-cal
+*/
+
+.or-000, .or-transparent 		{color:rgba(225,223,220,.05);	fill:rgba(225,223,220,.05);}
+.or-010, .or-white 				{color:rgb(235,236,237);		fill:rgb(235,236,237);}
+.or-020, .or-golden-yellow 	{color:rgb(253,171,21);			fill:rgb(253,171,21);}
+.or-019, .or-signal-yellow		{color:rgb(235,174,0);			fill:rgb(235,174,0);}
+.or-021, .or-yellow 				{color:rgb(255,201,28);			fill:rgb(255,201,28);}
+.or-022, .or-light-yellow 		{color:rgb(247,208,0);			fill:rgb(247,208,0);}
+.or-025, .or-brimstone-yellow {color:rgb(243,230,52);			fill:rgb(243,230,52);}
+.or-030, .or-dark-red 			{color:rgb(148,47,52);			fill:rgb(148,47,52);}
+.or-031, .or-red 					{color:rgb(187,45,54);			fill:rgb(187,45,54);}
+.or-047, .or-orange-red 		{color:rgb(218,72,49);			fill:rgb(218,72,49);}
+.or-034, .or-orange 				{color:rgb(225,81,45);			fill:rgb(225,81,45);}
+.or-036, .or-light-orange 		{color:rgb(240,116,50);			fill:rgb(240,116,50);}
+.or-035, .or-pastel-orange 	{color:rgb(255,113,29);			fill:rgb(255,113,29);}
+.or-040, .or-violet 				{color:rgb(105,67,117);			fill:rgb(105,67,117);}
+.or-043, .or-lavender 			{color:rgb(130,107,171);		fill:rgb(130,107,171);}
+.or-042, .or-lilac 				{color:rgb(189,148,190);		fill:rgb(189,148,190);}
+.or-041, .or-pink 				{color:rgb(203,62,122);			fill:rgb(203,62,122);}
+.or-045, .or-soft-pink 			{color:rgb(241,139,184);		fill:rgb(241,139,184);}
+.or-050, .or-dark-blue 			{color:rgb(54,63,99);			fill:rgb(54,63,99);}
+.or-049, .or-king-blue 			{color:rgb(48,62,130);			fill:rgb(48,62,130);}
+.or-086, .or-brilliant-blue	{color:rgb(50,66,175); 			fill:rgb(50,66,175);}
+.or-057, .or-traffic-blue		{color:rgb(0,79,150); 			fill:rgb(0,79,150);}
+.or-051, .or-gentian-blue		{color:rgb(0,85,142); 			fill:rgb(0,85,142);}
+.or-098, .or-gentian				{color:rgb(0,95,168); 			fill:rgb(0,95,168);}
+.or-052, .or-azure-blue			{color:rgb(0,108,180); 			fill:rgb(0,108,180);}
+.or-053, .or-light-blue			{color:rgb(0,145,199); 			fill:rgb(0,145,199);}
+.or-056, .or-ice-blue			{color:rgb(77,166,212); 		fill:rgb(77,166,212);}
+.or-066, .or-turquoise-blue	{color:rgb(0,136,147); 			fill:rgb(0,136,147);}
+.or-054, .or-turquoise 			{color:rgb(0,161,157); 			fill:rgb(0,161,157);}
+.or-055, .or-mint 				{color:rgb(106,208,189); 		fill:rgb(106,208,189);}
+.or-060, .or-dark-green 		{color:rgb(27,70,53); 			fill:rgb(27,70,53);}
+.or-061, .or-green 				{color:rgb(0,134,95); 			fill:rgb(0,134,95);}
+.or-062, .or-light-green 		{color:rgb(0,143,74); 			fill:rgb(0,143,74);}
+.or-064, .or-yellow-green 		{color:rgb(62,160,46); 			fill:rgb(62,160,46);}
+.or-063, .or-lime-tree-green 	{color:rgb(113,172,66); 		fill:rgb(113,172,66);}
+.or-080, .or-brown 				{color:rgb(84,70,61); 			fill:rgb(84,70,61);}
+.or-083, .or-nut-brown 			{color:rgb(178,100,57); 		fill:rgb(178,100,57);}
+.or-081, .or-light-brown 		{color:rgb(172,141,99); 		fill:rgb(172,141,99);}
+.or-082, .or-beige 				{color:rgb(210,198,168); 		fill:rgb(210,198,168);}
+.or-070, .or-black 				{color:rgb(41,42,44); 			fill:rgb(41,42,44);}
+.or-073, .or-dark-grey 			{color:rgb(79,81,82); 			fill:rgb(79,81,82);}
+.or-071, .or-grey 				{color:rgb(122,130,132); 		fill:rgb(122,130,132);}
+.or-074, .or-middle-grey 		{color:rgb(145,149,146); 		fill:rgb(145,149,146);}
+.or-072, .or-light-grey 		{color:rgb(195,199,199); 		fill:rgb(195,199,199);}
+.or-090, .or-silver-grey 		{color:rgb(128,130,132); 		fill:rgb(128,130,132);}
+.or-091, .or-gold 				{color:rgb(129,109,66); 		fill:rgb(129,109,66);}
+.or-092, .or-copper 				{color:rgb(127,87,53); 			fill:rgb(127,87,53);}
+.or-312, .or-burgundy 			{color:rgb(111,0,14); 			fill:rgb(111,0,14);}
+.or-838, .or-maize 				{color:rgb(251,211,149); 		fill:rgb(251,211,149);}
+.or-392, .or-dahlia-red 		{color:rgb(193,65,80); 			fill:rgb(193,65,80);}
+.or-391, .or-persimmon 			{color:rgb(229,126,68); 		fill:rgb(229,126,68);}
+.or-430, .or-lipstick 			{color:rgb(183,87,114); 		fill:rgb(183,87,114);}
+.or-428, .or-bubble-gum 		{color:rgb(226,127,182); 		fill:rgb(226,127,182);}
+.or-429, .or-carnation-pink 	{color:rgb(237,183,196); 		fill:rgb(237,183,196);}           
+.or-173, .or-geyser-blue 		{color:rgb(90,191,211); 		fill:rgb(90,191,211);}
+.or-172, .or-powder-blue 		{color:rgb(177,209,234); 		fill:rgb(177,209,234);}              
+.or-174, .or-teal 				{color:rgb(1,148,186); 			fill:rgb(1,148,186);}
+.or-493, .or-olive 				{color:rgb(145,148,101); 		fill:rgb(145,148,101);}
+.or-494, .or-celedon 			{color:rgb(186,194,145);		fill:rgb(186,194,145);}
+.or-495, .or-key-lime-pie 		{color:rgb(195,227,151);		fill:rgb(195,227,151);}
+.or-752, .or-storm-grey 		{color:rgb(115,120,126);		fill:rgb(115,120,126);}
+.or-751, .or-warm-grey 			{color:rgb(186,182,169);		fill:rgb(186,182,169);}
