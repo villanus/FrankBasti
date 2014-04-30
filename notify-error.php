@@ -1,4 +1,6 @@
 <?php
+ header('Access-Control-Allow-Origin: *');  
+
 /*
 notify-error.php
 Sends an email using PHP and MailJet Api
